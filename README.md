@@ -6,6 +6,7 @@
 - 安装python
 - 注册github
 - 写一篇简单的博文：http://blog.csdn.net/baidu_33926861/article/details/52497811
+
 # homework_2
 
 # homework_3
