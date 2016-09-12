@@ -1,16 +1,8 @@
 # computationalphysics_N2014301020006
-homework
-
-Exercise_01:http://blog.csdn.net/baidu_33926861/article/details/52497811
-
-Exercise_02:
-
-Exercise_03:
-
-Exercise_04:
-
-Exercise_05:
-
-Exercise_06
-
-Exercise_07:
+# 姓名：曾梓龙
+# 作业列表
+# homework_1
+- 安装Linux系统
+- 安装python
+- 注册github
+- 写一篇简单的博文：http://blog.csdn.net/baidu_33926861/article/details/52497811
