@@ -8,7 +8,7 @@
 - 写一篇简单的博文：http://blog.csdn.net/baidu_33926861/article/details/52497811
 
 # homework_2
--编写一个python程序，在屏幕上打印出自己的英文名：http://blog.csdn.net/baidu_33926861/article/details/52573537
+- 编写一个python程序，在屏幕上打印出自己的英文名：http://blog.csdn.net/baidu_33926861/article/details/52573537
 
 # homework_3
 
