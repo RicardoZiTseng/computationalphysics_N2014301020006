@@ -12,7 +12,6 @@
 - 写的第二篇简单博文：http://blog.csdn.net/baidu_33926861/article/details/52573537
 
 # homework_3
-- 作业L1 在屏幕上让你的英文名字水平移动起来:https://github.com/RicardoZiTseng/computationalphysics_N2014301020006/blob/master/1
-- 作业L2 在80*80点阵上用字符拼出你想画的东西，并让它旋转起来，希望脑洞大开！（比如字符、火柴人、火箭等等）:https://code.csdn.net/snippets/1898912
+- [homework_03](https://github.com/RicardoZiTseng/computationalphysics_N2014301020006/blob/master/homework_03.md)
 
 # homework_4
