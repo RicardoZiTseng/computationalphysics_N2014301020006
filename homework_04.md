@@ -2,7 +2,7 @@
 ***
 ## 简述题目
 >在一个系统中，有两种放射性原子A和B，原子A会衰变成原子B，而原子B也会衰变成原子A。严格上来说，这并不是一个“衰变”循环。一个更加恰当的解释应当是这个系统在保持能量不变的状态下可以在原子A和B中相互转化。而描述这个过程的速率方程是这样的：
-![(0.1)](http://latex.codecogs.com/png.latex?\frac{dN_{A}}{dt}=\frac{N_{B}}{t_{dcy}}-\frac{N_{A}}{t_{dcy}})
+<img src="http://latex.codecogs.com/gif.latex?\frac{dN_{A}}{dt}=\frac{N_{B}}{t_{dcy}}-\frac{N_{A}}{t_{dcy}}" alt="" title="" />
 ![(0.2)](http://latex.codecogs.com/png.latex?\frac{dN_{B}}{dt}=\frac{N_{A}}{t_{dcy}}-\frac{N_{B}}{t_{dcy}})
 利用这个方程解决这个原子数分别为NA和NB的系统，同时：
 ![衰变周期](http://latex.codecogs.com/png.latex?t_{dcy}=1s)
