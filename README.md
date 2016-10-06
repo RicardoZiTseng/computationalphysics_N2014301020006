@@ -15,3 +15,4 @@
 - [homework_03](https://github.com/RicardoZiTseng/computationalphysics_N2014301020006/blob/master/homework_03.md)
 
 # homework_4
+- [homework_04](http://www.jianshu.com/p/4838d81da5fb)
